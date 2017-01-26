@@ -8,3 +8,5 @@ ROM stendur fyrir read only memory. Ekki er hægt að skrifa inn á ROM eftir fr
 Fyrirbyggjandi viðhald er tímaleg skoðun og endurnýjun á tölvubúnaði
 ### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 ESD stendur fyrir electrostatic discharge. Leiðir til að koma í veg fyrir það er t.d. að halda pörtunum í andrafstöðupokum þangað til þú þarft að nota þá.
+### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+Það þarf að hafa í huga hversu mikla orku þú þarft í augnablikinu en einnig er gott að hugsa út í hve mikið þú þarft í framtíðinni.
