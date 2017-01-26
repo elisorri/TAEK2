@@ -10,3 +10,10 @@ Fyrirbyggjandi viðhald er tímaleg skoðun og endurnýjun á tölvubúnaði
 ESD stendur fyrir electrostatic discharge. Leiðir til að koma í veg fyrir það er t.d. að halda pörtunum í andrafstöðupokum þangað til þú þarft að nota þá.
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 Það þarf að hafa í huga hversu mikla orku þú þarft í augnablikinu en einnig er gott að hugsa út í hve mikið þú þarft í framtíðinni.
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+Skref 1: Finna vandamálið.
+Skref 2: Koma fram með kenningu um hvað gæti valdið vandanum.
+Skref 3: Prufa kenninguna.
+Skref 4: Koma upp með plan til þess að leysa vandan.
+Skref 5: Sjá til þess að allt kerfið virki eins og það á að virka
+Skref 6: Skrifa þiður niðurstöður
