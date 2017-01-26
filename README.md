@@ -19,3 +19,5 @@ Skref 5: Sjá til þess að allt kerfið virki eins og það á að virka
 Skref 6: Skrifa þiður niðurstöður
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 Opinn spurning leyfir kúnnanum að útskýra vandann með eigin orðum. Lokaðri spurningu þarfnast oftast já og nei svör.
+### 8. Hvað eru jaðartæki?
+Jaðartæki eru tæki sem tengjast tölvunni þráðlaust.
