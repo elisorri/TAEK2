@@ -17,3 +17,5 @@ Skref 3: Prufa kenninguna.
 Skref 4: Koma upp með plan til þess að leysa vandan.
 Skref 5: Sjá til þess að allt kerfið virki eins og það á að virka
 Skref 6: Skrifa þiður niðurstöður
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+Opinn spurning leyfir kúnnanum að útskýra vandann með eigin orðum. Lokaðri spurningu þarfnast oftast já og nei svör.
