@@ -23,7 +23,7 @@ Opinn spurning leyfir kúnnanum að útskýra vandann með eigin orðum. Lokaðr
 Jaðartæki eru tæki sem tengjast tölvunni en eru ekki inni í henni.
 ### 9. Nefndu þrjú dæmi um inntakstæki.
 Tölvumús, lyklaborð og stýripinnar.
-10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 Noctua NF-A14-PWM hljóðlát kassavifta	5490 kr
 Thermaltake Versa H15 mATX turnkassi með glugga, svartur	12990 kr
 ADATA 8GB DDR3L 1600MHz (1x8GB) Premier Pro vinnsluminni tvö stykki		25980 kr
