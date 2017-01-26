@@ -21,3 +21,5 @@ Skref 6: Skrifa þiður niðurstöður
 Opinn spurning leyfir kúnnanum að útskýra vandann með eigin orðum. Lokaðri spurningu þarfnast oftast já og nei svör.
 ### 8. Hvað eru jaðartæki?
 Jaðartæki eru tæki sem tengjast tölvunni þráðlaust.
+### 9. Nefndu þrjú dæmi um inntakstæki.
+Tölvumús, lyklaborð og stýripinnar.
