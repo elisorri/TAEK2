@@ -20,7 +20,7 @@ Skref 6: Skrifa þiður niðurstöður
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 Opinn spurning leyfir kúnnanum að útskýra vandann með eigin orðum. Lokaðri spurningu þarfnast oftast já og nei svör.
 ### 8. Hvað eru jaðartæki?
-Jaðartæki eru tæki sem tengjast tölvunni þráðlaust.
+Jaðartæki eru tæki sem tengjast tölvunni en eru ekki inni í henni.
 ### 9. Nefndu þrjú dæmi um inntakstæki.
 Tölvumús, lyklaborð og stýripinnar.
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
@@ -32,4 +32,4 @@ Gigabyte Aorus S1151 GA-Z270X-Gaming K5 móðurborð	36990 kr
 Intel Core I5-7600 Quad Core örgjörvi	39990 kr
 Gigabyte GTX 1070 Xtreme Gaming skjákort 8GB GDDR5 		89990 kr
 Samtals 229420 kr
-allir partar fást í tölvutek
+allir partar fást í tölvutek.
